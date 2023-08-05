@@ -1,0 +1,8 @@
+pandas
+numpy
+textstat
+optuna
+pysrt
+nltk
+catboost
+scikit-learn
